@@ -1,0 +1,14 @@
+{
+  "name": "workflow-scaffold-cli",
+  "version": "1.0.0",
+  "description": "Zero‑dependency CLI engine for modern developer workflow automation and scaffolding",
+  "type": "module",
+  "bin": {
+    "workflow-scaffold": "./src/index.js"
+  },
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "author": "Suman Mehta",
+  "license": "MIT"
+}
